@@ -1,5 +1,7 @@
 # COVID-19 Graphical Dashboard
 
+(My first project, I've come on a bit since!)
+
 Hosted as a Binder at: https://bit.ly/2JmOvTu (Please allow for long loading times while the Binder initialises)
 
 The code contained produces a graphical representation of daily new cases of COVID-19, filterable by region of the UK, alongside a graph detailing daily cumulative COVID-19 deaths. 
